@@ -1,9 +1,11 @@
-var str="naman";
-var new_str="";
-for(var i=0;i<n;i++){
-new_str=str+str[i]
+let num=13;
+let count=0;
+for(loop){
+if(num%i==0){
+count++;
 }
-if(str==new_str){
-console.log("yes")
+}
+if(count==2){
+console.log("prime")
 }else{
-console.log("no");
+console.log("not prime");
